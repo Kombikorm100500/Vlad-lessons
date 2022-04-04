@@ -11,8 +11,8 @@ html {
     display: inline-block;
     background-color: green;
     margin: 10px;
-    /*width: 100%
-    heit: 200px; */
+    width: 100%;
+    height: 200px;
 }
 .block {
     background-color: red;
